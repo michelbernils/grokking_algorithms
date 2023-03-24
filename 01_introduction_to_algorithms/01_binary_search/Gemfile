@@ -1,0 +1,11 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+# gem "rails"
+
+# RuboCop is a Ruby code style checking and code formatting tool. It aims to enforce the community-driven Ruby Style Guide.
+gem 'rubocop', '~> 1.48', '>= 1.48.1'
+
+# Complete suite of testing facilities supporting TDD
+gem 'minitest', '~> 5.18'
