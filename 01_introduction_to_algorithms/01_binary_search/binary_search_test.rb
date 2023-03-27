@@ -1,6 +1,9 @@
+# frozen_string_literal: true
+
 require 'minitest/autorun'
 require_relative 'binary_search'
 
+# BinarySearcH Test class
 class BinarySearchTest < Minitest::Test
   def setup
     @array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]

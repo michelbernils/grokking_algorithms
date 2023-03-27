@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# Search: O(log n)
+
 # Class containing all the logic of a binary tree
 class BinarySearch
   def initialize(array:)
