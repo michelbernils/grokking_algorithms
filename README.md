@@ -3,4 +3,5 @@
 - [x] Chapter 01 (Binary Search)
 - [x] Chapter 02 (Linked List and Selection Sort)
 - [x] Chapter 03 (Recursion)
-- [ ] Chapter 04 (Quicksort)
+- [x] Chapter 04 (Quicksort)
+- [ ] Chapter 05 (Hash Map)
