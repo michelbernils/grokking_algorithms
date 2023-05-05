@@ -4,4 +4,5 @@
 - [x] Chapter 02 (Linked List and Selection Sort)
 - [x] Chapter 03 (Recursion)
 - [x] Chapter 04 (Quicksort)
-- [ ] Chapter 05 (Hash Map)
+- [x] Chapter 05 (Hash Map)
+- [ ] Chapter 06 (Breadth-first Search)
